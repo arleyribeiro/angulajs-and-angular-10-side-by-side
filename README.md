@@ -1,4 +1,4 @@
-# Ng52
+# AngularJs and Angular 10 - side by side
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
@@ -26,7 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## Refenrence
+## Reference
 
 [Tutorial - medium] (https://medium.com/lapis/running-angularjs-1-6-in-angular-5-side-by-side-d2ed771e2a8f)
 
