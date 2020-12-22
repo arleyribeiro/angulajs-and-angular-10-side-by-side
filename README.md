@@ -28,6 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Reference
 
-[Tutorial - medium] (https://medium.com/lapis/running-angularjs-1-6-in-angular-5-side-by-side-d2ed771e2a8f)
+[Tutorial - medium](https://medium.com/lapis/running-angularjs-1-6-in-angular-5-side-by-side-d2ed771e2a8f)
 
-[Code base - github] (https://github.com/manfredsteyer/ngUpgrade-without-preparation.git)
+[Code base - github](https://github.com/manfredsteyer/ngUpgrade-without-preparation.git)
