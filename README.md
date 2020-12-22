@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Refenrence
+
+[Tutorial - medium] (https://medium.com/lapis/running-angularjs-1-6-in-angular-5-side-by-side-d2ed771e2a8f)
+
+[Code base - github] (https://github.com/manfredsteyer/ngUpgrade-without-preparation.git)
