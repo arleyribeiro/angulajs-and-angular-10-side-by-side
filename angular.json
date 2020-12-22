@@ -113,5 +113,8 @@
       }
     }
   },
-  "defaultProject": "ng52"
+  "defaultProject": "ng52",
+  "cli": {
+    "analytics": false
+  }
 }
